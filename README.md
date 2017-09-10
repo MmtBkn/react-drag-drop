@@ -1,1 +1,3 @@
-# react-drag-drop
+# React Drag & Drop
+
+Sample react drag & drop app
